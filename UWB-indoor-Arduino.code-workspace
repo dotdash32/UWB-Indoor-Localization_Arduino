@@ -6,6 +6,14 @@
 		{
 			"name": "ESP32_UWB_setup_anchor-dwm1001_dev",
 			"path": "ESP32_UWB_setup_anchor-dwm1001_dev"
+		},
+		{
+			"name": "ESP32_UWB_setup_tag-dwm1001_dev",
+			"path": "ESP32_UWB_setup_tag-dwm1001_dev"
+		},
+		{
+			"name": "ESP32_anchor_autocalibrate-dwm1001_dev",
+			"path": "ESP32_anchor_autocalibrate-dwm1001_dev"
 		}
 	],
 	"settings": {}
